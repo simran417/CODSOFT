@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: pink;
+}
+.nav{
+    background-color: black;
+    height: 70px;
+}
+a{
+   text-decoration: none;
+   color: white;
+}
+.name{
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.nav1{
+    display: inline-block;
+    margin-left: 500px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+#a1{
+    margin-right: 30px;
+}
+.search{
+    display: inline-block;
+    margin-left: 30px;
+}
+input{
+    height: 30px;
+    width: 300px;
+    font-size: 18px;
+}
+.main{
+    height: 600px;
+    background-image: url(./img1.avif);
+    background-size: cover;
+}
+#h1{
+    color: black;
+    font-size: 70px;
+    font-weight: 700;
+}
+#p1{
+    color: black;
+    font-size: 20px;
+}
+.box1{
+    margin-left: 100px;
+    padding-top: 120px;
+    width: 300px;
+}
+.order{
+    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 120px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 200px;
+    margin-top: 50px;
+    padding: 5px;
+    
+}
+.collection{
+    background-color: pink;
+}
+#c1{
+    font-size: 70px;
+    font-weight: 700;
+    color: black;
+    background-color: white;
+    margin-bottom: 20px;
+}
+#c2{
+    font-size: 50px;
+    color: black;
+    margin-left: 25px;
+}
+.m1{
+    display: inline-block;
+    margin-top: 40px;
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    margin-right: 30px;
+    margin-left: 40px;
+    
+}
+#c3{
+    font-size: 50px;
+    color: black;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.men{
+    background-color: rgba(173, 150, 150, 0.829);
+    height: 650px;
+    width: 1100px;
+    margin:auto;
+    margin-bottom: 80px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 5px 5px rgba(1, 1, 1, 0.1);
+}
+.woman{
+    background-color: rgba(173, 150, 150, 0.829);
+    height: 650px;
+    width: 1100px;
+    margin:auto;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 5px 5px rgba(1, 1, 1, 0.1);
+}
+.offer{
+    background-color: rgba(173, 150, 150, 0.829);
+    height: 600px;
+    width: 850px;
+    margin:auto;  
+    border-radius: 20px;
+    margin-top: 20px;
+    background-image: url(./of1.jpg);
+    background-size: auto;
+}
+.box2{
+    margin-left: 50px;
+    padding-top: 120px;
+    width: 300px;
+}
+#of{
+    font-size: 70px;
+    font-weight: 600;
+}
+#of1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.order1{
+    color: red;
+    border: 3px solid red;
+    border-radius: 10px;
+    width: 150px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 50px;
+    margin-top: 80px;
+    padding: 5px;
+}
+.rs{
+    background-color: white;
+    text-align: center;
+    font-weight: 600;
+    height: 20px;
+}
+.contact{
+    background-color: pink;
+    margin-top: 70px;
+}
+.gmail{
+    text-align: center;
+    font-size: 20px;
+}
+.logo{
+    text-align: center;
+    font-size: 30px;
+}
+.b1{
+    width: 800px;
+    margin:auto;
+}
+.b2{
+    margin-top: 50px;
+}
+
+#s4{
+ margin-top: 20px;
+}
+#s5{
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.name:hover{
+    border: 1px solid white;
+}
+a:hover{
+    border: 1px solid white;
+}
+.order:hover{
+  font-size:22px;
+  color: red;
+  border: 2px solid red;
+}
+.rs:hover{
+    background-color: black;
+    color: white;
+}
+.order1:hover{
+    background-color: black;
+    
+}
